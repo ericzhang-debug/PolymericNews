@@ -29,13 +29,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
       
-    - name: Get Bing Image
+    - name: Get Zhihu
       run: |
         python ZhihuRun.py
       
     - name: Commit
       run: |
-        git config --global user.email 888888@163.com
+        git config --global user.email 88888@163.com
         git config --global user.name github
         git add .
         git commit -m "成功获取知乎并Push" -a
