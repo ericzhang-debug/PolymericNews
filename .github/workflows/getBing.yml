@@ -1,8 +1,6 @@
 name: getBing-Image-Action
 
 on:
-  watch:
-    types: [started]
   schedule:
     - cron: "0 22 * * *"
 
