@@ -1,0 +1,2 @@
+import Zhihu
+Zhihu.run()

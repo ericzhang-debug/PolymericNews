@@ -1,0 +1,2 @@
+import Bing
+Bing.run()
