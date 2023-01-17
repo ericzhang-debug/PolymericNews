@@ -3,11 +3,9 @@ name: getZhihu-Action
 on:
   schedule:
     - cron: "0 0 * * *"
-    - cron: "0 4 * * *"
-    - cron: "0 8 * * *"
-    - cron: "0 12 * * *"
-    - cron: "0 16 * * *"
-    - cron: "0 20 * * *"
+    - cron: "0 7 * * *"
+    - cron: "0 14 * * *"
+    - cron: "0 21 * * *"
 
 jobs:
 
