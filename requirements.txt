@@ -1,0 +1,5 @@
+Faker==15.3.4
+pandas==1.5.2
+parsel==1.7.0
+requests==2.28.1
+openpyxl==3.0.10
